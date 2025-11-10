@@ -95,7 +95,7 @@ My work focuses on **backend development**, **automation**, **data science**, an
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00ff99&center=true&width=640&lines=tn-ch-ta+%7C+Ethical+Hacker;Automation+%2F+Security+%2F+Research" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00ff99&center=true&width=640&lines=tn-ch-ta+%7C+Developer;Automation+%2F+Security+%2F+Research" alt="typing" />
 </p>
 
 <p align="center">
