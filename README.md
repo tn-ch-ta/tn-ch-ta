@@ -90,23 +90,17 @@ My work focuses on **backend development**, **automation**, **data science**, an
 ### ✨ Fun Animated Touches
 
 <p align="center">
-  <!-- small animated avatar -->
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="64" height="64" alt="hacker avatar" style="border-radius:8px; margin-right:12px;" />
-
-  <!-- animated typing label (subtle, professional) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00ff99&center=true&width=520&lines=Ethical+Hacker+%7C+Security+Enthusiast;Python+%2B+Automation+%2B+Offensive+%26+Defensive+Mindset" alt="typing" />
+  <!-- big matrix/terminal animation -->
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="700" alt="matrix rain / hacker animation" style="border-radius:8px; box-shadow: 0 8px 26px rgba(0,0,0,0.5);" />
 </p>
 
 <p align="center">
-  <!-- terminal / coding animation -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="520" alt="terminal animation" style="border-radius:6px; box-shadow: 0 6px 18px rgba(0,0,0,0.45);" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00ff99&center=true&width=640&lines=tn-ch-ta+%7C+Ethical+Hacker;Automation+%2F+Security+%2F+Research" alt="typing" />
 </p>
 
 <p align="center">
-  <!-- security badges -->
-  <img src="https://img.shields.io/badge/Role-Ethical%20Hacker-blue?style=for-the-badge&logo=hackthebox" alt="ethical hacker badge" />
-  <img src="https://img.shields.io/badge/Focus-Secure+Automation-green?style=for-the-badge&logo=python" alt="secure automation badge" />
-  <img src="https://img.shields.io/badge/Practice-Responsible%20Disclosure-yellow?style=for-the-badge&logo=security" alt="responsible disclosure badge" />
+  <img src="https://img.shields.io/badge/Certified-ETHICAL-HACKER-black?style=for-the-badge&logo=openssl" alt="ethical" />
+  <img src="https://img.shields.io/badge/Tooling-Python%20%7C%20Playwright%20%7C%20AioHTTP-blue?style=for-the-badge" alt="tools" />
 </p>
 
 ---
