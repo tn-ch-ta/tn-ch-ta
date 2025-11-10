@@ -15,7 +15,12 @@ My work focuses on **backend development**, **automation**, **data science**, an
 ## 🧠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,docker,aws,git,githubactions,js,sqlite,vscode" />
+  <!-- Animated floating tech cloud -->
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,typescript,javascript,sql&frameworks=fastapi,flask,django&tools=docker,git,githubactions,aws,postgresql,vscode&theme=tokyonight" alt="Tech Stack Cloud" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,docker,aws,git,githubactions,js,sqlite,vscode" alt="Skill Icons" />
 </p>
 
 <details>
@@ -33,11 +38,17 @@ My work focuses on **backend development**, **automation**, **data science**, an
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **[IDA_Systems](https://github.com/tn-ch-ta/IDA_Systems)** | **(InDepthAnalysis)** Automated Solana trading bot that monitors, analyzes, and executes token buys using machine learning–driven pattern detection and scheduling. | Python · Pandas · Scikit-Learn · StatsModels · Tslearn · APScheduler · Solana SDK |
-| **[Scrape_Regularize](https://github.com/tn-ch-ta/Scrape_regularize)** | Automated data extraction and DARF issuance tool that scrapes and processes PGFN debtor records using Playwright, structured data parsing, and SQLite storage. | Python · Playwright · SQLite · CSV/JSON · Automation |
-| **[Proauc](https://github.com/tn-ch-ta/Proauc)** | End-to-end Python automation system that finds, edits, and uploads trending YouTube Shorts using AI for transcription, titling, and content labeling. | Python · MoviePy · yt-dlp · OpenAI API · YouTube Data API · Automation |
+| 🚀 Project | 🧩 Description | 🛠️ Tech |
+|------------|----------------|----------|
+| **[IDA_Systems](https://github.com/tn-ch-ta/IDA_Systems)** | **(InDepthAnalysis)** Automated Solana trading bot that monitors, analyzes, and executes token buys using machine learning–driven pattern detection and scheduling. | <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=darkblue" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white" /> |
+| **[Scrape_Regularize](https://github.com/tn-ch-ta/Scrape_regularize)** | Automated data extraction and DARF issuance tool that scrapes and processes PGFN debtor records using Playwright, structured data parsing, and SQLite storage. | <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-00C7B7?logo=python&logoColor=white" /> |
+| **[Proauc](https://github.com/tn-ch-ta/Proauc)** | End-to-end Python automation system that finds, edits, and uploads trending YouTube Shorts using AI for transcription, titling, and content labeling. | <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/MoviePy-FE5196?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/yt--dlp-FF0000?logo=youtube&logoColor=white" /> |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20%26%20Automation%20Focus&lineCount=3&line1=Python,ffcb2b;FastAPI,009688;Flask,blue;Docker,2496ED;&line2=AWS,232F3E;GitHub%20Actions,2088FF;PostgreSQL,336791;CI/CD,00C853;&line3=Data%20Science,ffb300;XGBoost,00bfa5;Scikit-Learn,f7931e;Pandas,150458;&theme=tokyonight" alt="Animated Tech Card" />
+</p>
 
 ---
 
@@ -55,7 +66,6 @@ My work focuses on **backend development**, **automation**, **data science**, an
 <p align="center">
   <a href="mailto:jarryzarry@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   <a href="https://github.com/tn-ch-ta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
