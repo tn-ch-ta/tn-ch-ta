@@ -90,8 +90,23 @@ My work focuses on **backend development**, **automation**, **data science**, an
 ### ✨ Fun Animated Touches
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/gifs/hi.gif" width="40px" /> 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Coding animation" />
+  <!-- small animated avatar -->
+  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="64" height="64" alt="hacker avatar" style="border-radius:8px; margin-right:12px;" />
+
+  <!-- animated typing label (subtle, professional) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00ff99&center=true&width=520&lines=Ethical+Hacker+%7C+Security+Enthusiast;Python+%2B+Automation+%2B+Offensive+%26+Defensive+Mindset" alt="typing" />
+</p>
+
+<p align="center">
+  <!-- terminal / coding animation -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="520" alt="terminal animation" style="border-radius:6px; box-shadow: 0 6px 18px rgba(0,0,0,0.45);" />
+</p>
+
+<p align="center">
+  <!-- security badges -->
+  <img src="https://img.shields.io/badge/Role-Ethical%20Hacker-blue?style=for-the-badge&logo=hackthebox" alt="ethical hacker badge" />
+  <img src="https://img.shields.io/badge/Focus-Secure+Automation-green?style=for-the-badge&logo=python" alt="secure automation badge" />
+  <img src="https://img.shields.io/badge/Practice-Responsible%20Disclosure-yellow?style=for-the-badge&logo=security" alt="responsible disclosure badge" />
 </p>
 
 ---
