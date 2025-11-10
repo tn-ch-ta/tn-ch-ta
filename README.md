@@ -87,7 +87,7 @@ My work focuses on **backend development**, **automation**, **data science**, an
 
 ---
 
-### ✨ Fun Animated Touches
+### 🫵🏼Stop stalking my page
 
 <p align="center">
   <!-- big matrix/terminal animation -->
@@ -99,8 +99,7 @@ My work focuses on **backend development**, **automation**, **data science**, an
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certified-ETHICAL-HACKER-black?style=for-the-badge&logo=openssl" alt="ethical" />
-  <img src="https://img.shields.io/badge/Tooling-Python%20%7C%20Playwright%20%7C%20AioHTTP-blue?style=for-the-badge" alt="tools" />
+  <img src="https://img.shields.io/badge/Tooling-Python%20%7C%20AioHTTP-blue?style=for-the-badge" alt="tools" />
 </p>
 
 ---
