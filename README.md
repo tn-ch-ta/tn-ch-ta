@@ -42,8 +42,14 @@ My work focuses on **backend development**, **automation**, **data science**, an
 
 ## 📈 GitHub Stats
 
-![tn-ch-ta’s GitHub stats](https://github-readme-stats.vercel.app/api?username=tn-ch-ta&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tn-ch-ta&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tn-ch-ta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tn-ch-ta&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tn-ch-ta&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
